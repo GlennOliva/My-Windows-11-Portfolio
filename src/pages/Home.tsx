@@ -78,6 +78,10 @@ const Home = () => {
                 {
                   window.open("https://www.facebook.com/profile.php?id=100093027084141", "_blank");
                 }
+                else if(item.name === "PORTFOLIO")
+                  {
+                    setShowPortfolio(true);
+                  }
             }}
           >
             <img src={item.img} alt={item.name} className="w-12 h-12" />
