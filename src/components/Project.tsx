@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { motion } from 'framer-motion';
 import { FaGithub } from "react-icons/fa";
 import project1 from '../assets/images/valentines_booth_project1.png';

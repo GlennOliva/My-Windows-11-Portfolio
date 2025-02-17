@@ -1,4 +1,4 @@
-import React, { useRef } from 'react';
+import  { useRef } from 'react';
 import { motion } from 'framer-motion';
 import cert1 from '../assets/images/cert1-java.jpg';
 import cert2 from '../assets/images/cert2-python.jpg';

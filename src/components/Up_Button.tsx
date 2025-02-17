@@ -1,4 +1,3 @@
-import React from "react";
 import { ArrowUp } from "lucide-react"; // Arrow-up icon
 
 const Up_Button = () => {

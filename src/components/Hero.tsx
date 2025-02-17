@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { motion } from "framer-motion";
 import bg from '../assets/images/cartoon-bg-png.png';
 import cv from '../assets/images/Resume.pdf'

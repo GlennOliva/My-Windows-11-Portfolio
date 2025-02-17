@@ -1,4 +1,4 @@
-import React, { useRef } from 'react';
+import  { useRef } from 'react';
 import { motion } from 'framer-motion';
 import tsIcon from '../assets/images/typescript.png';
 import jsIcon from '../assets/images/js.png';

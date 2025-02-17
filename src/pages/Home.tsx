@@ -1,5 +1,5 @@
 // Home.tsx
-import React, { useEffect, useState } from "react";
+import  { useEffect, useState } from "react";
 import github from "../assets/images/github_icon.png";
 import notepad from "../assets/images/notepad.png";
 import cmd from "../assets/images/cmd.png";

@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import  { useState } from "react";
 import Chatbot from "./Chatbot"; // Import Chatbot
 import Up_Button from "./Up_Button"; // Import Up_Button
 

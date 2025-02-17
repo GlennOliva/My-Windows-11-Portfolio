@@ -1,4 +1,4 @@
-import React from 'react';
+
 
 // Importing images
 import locationIcon from '../assets/images/map.png';
